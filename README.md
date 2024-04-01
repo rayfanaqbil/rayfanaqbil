@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Rayfan</h1>
-- 🌱 I’m currently learning **Go Fiber**
-
-- ⚡ Fun fact **Currently trying to learn to become a fullstack developer**
+🌱 I’m currently learning **Go Fiber**
+⚡ Fun fact **Currently trying to learn to become a fullstack developer**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
