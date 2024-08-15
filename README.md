@@ -1,4 +1,5 @@
 <h1 align="center">Hi 👋, I'm Rayfan</h1>
+<img align="right" alt="gif" width="400" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExYzV3c3htMGIyZTVpcHI3cTBkcGw4MW9hNXlpbGVtODRzcjN4MGp2aSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ZVik7pBtu9dNS/giphy.webp">
 🌱 currently learning front-end<br>
 ⚡ Trying to become a back-end developer
 
